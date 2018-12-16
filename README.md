@@ -1,2 +1,2 @@
 # Nsight
-A Deep Learning Night Time Vehicle Inference
+A Deep Learning Inference on Night Time Vehicles
