@@ -8,6 +8,7 @@ A Deep Learning Inference on Night Time Vehicles
 * Special thanks to James Brey [2014] for the this test video.
 
 ### References:
+1. Howard, Andrew G., et al. "Mobilenets: Efficient convolutional neural networks for mobile vision applications." arXiv preprint arXiv:1704.04861 (2017).
 1. James Brey. (2014, October 02). Highway Traffic at Night [Video file]. Retrieved from [https://www.youtube.com/watch?v=HIuqmNiKJx4](https://www.youtube.com/watch?v=HIuqmNiKJx4)
 
 <hr>
