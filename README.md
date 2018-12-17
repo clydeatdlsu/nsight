@@ -5,5 +5,11 @@ A Deep Learning Inference on Night Time Vehicles
 
 ![nsight](https://github.com/clydeatdlsu/nsight/blob/master/assets/nsight_ssd_inference_v1.gif)
 
-De La Salle University
-Philippines
+* Special thanks to James Brey [2014] for the test video. All rights reserved to the owner.
+
+###References:
+1. James Brey. (2014, October 02). Highway Traffic at Night [Video file]. Retrieved from [https://www.youtube.com/watch?v=HIuqmNiKJx4](https://www.youtube.com/watch?v=HIuqmNiKJx4)
+
+<hr>
+De La Salle University, Philippines
+
